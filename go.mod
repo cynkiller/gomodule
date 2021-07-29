@@ -1,4 +1,4 @@
-module github.com/cynkiller/test
+module github.com/cynkiller/gomodule
 
 go 1.15
 
